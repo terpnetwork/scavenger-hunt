@@ -12,7 +12,7 @@ There are 3 ways to participate
 2. Deploy or provide a Terp Network Dapp
 3. Provide Useful Community Assistance During Phase 2 of Scavenger Hunt 
 
-Each way of participation earns contributor one point, & will be publiclly tracked on a cvs sheet [here](/contributions.csv) through [github](https://github.com/terpnetwork), [discord](https://discord.gg/SYEjMwAac7), & [element](https://matrix.to/#/!MIEDknobAODITdWMZi:matrix.org?via=matrix.org).
+Each way of participation earns contributor one point, & will be publiclly tracked on a spread sheet [here](/contributions.md) through [github](https://github.com/terpnetwork), [discord](https://discord.gg/SYEjMwAac7), & [element](https://matrix.to/#/!MIEDknobAODITdWMZi:matrix.org?via=matrix.org).
 
 *Feel free to push a PR to add your contributions within the github, & provide a link in a PR of this github highlighting your contribution!*
 

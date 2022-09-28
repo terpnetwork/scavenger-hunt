@@ -32,18 +32,18 @@
 |range         |1     |Node   |n/a                 |n/a                 |
 |Returniflost  |2     |Node   |Terp-Core           |n/a                 |
 |romanv1812    |2     |Node   |Seed Node           |n/a                 |
-|Xiti          |2     |Node   |Multiple Apps       |Community Assistance|
+|Xiti          |3     |Node   |Multiple Apps       |Community Assistance|
 |web34ever     |1     |Node   |n/a                 |n/a                 |
 |Zenchain      |2     |Node   |Explorer            |n/a                 |
 |zuka          |2     |Node   |n/a                 |n/a                 |
-|👋 79anvi 🍀  |1     |Node   |n/a	n/a             |                    |
+|👋 79anvi 🍀  |1     |Node   |n/a	n/a            |                    |
 |Artur         |1     |n/a    |n/a                 |Community Assistance|
 |Malverde      |1     |n/a    |n/a                 |Community Assistance|
 |Mook          |1     |n/a    |n/a                 |Community Assistance|
 |Marcus        |1     |n/a    |n/a                 |Community Assistance|
 |Beth          |1     |n/a    |n/a                 |Community Assistance|
 |Sandman       |1     |n/a    |n/a                 |Community Assistance|
-|Lavender      | 5	1  |n/a    |n/a                 |Community Assistance|
+|Lavender 5     | 	2  |node    |n/a                 |Community Assistance|
 |Pyrex Kenny   |1     |n/a    |n/a                 |Community Assistance|
 |Wild Echo     |1     |n/a	n/a|Community Assistance|                    |
 |Nahling	1     |n/a   |n/a    |Community Assistance|                    |

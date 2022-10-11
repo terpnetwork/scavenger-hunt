@@ -31,7 +31,8 @@ Projects can ask for funds using proposals. You can view the full list of TestNE
 
 ## Making a Proposal
 
-Please use [TestNET DAO Proposal Template iwp-0](TDP's/tdp-0.md) as basis for your proposal.
+Please use [TestNET DAO Proposal Template iwp-0](https://github.com/terpnetwork/scavenger-hunt/blob/main/DAO/TDPs/TDP-0.json) as basis 
+for your proposal.
 
 ### Proposal Status
 

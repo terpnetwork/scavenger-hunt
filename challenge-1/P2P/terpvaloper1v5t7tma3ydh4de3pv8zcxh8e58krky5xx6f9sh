@@ -1,0 +1,16 @@
+{
+"name": "jayjay",
+"terpval-address": "terpvaloper1v5t7tma3ydh4de3pv8zcxh8e58krky5xx6f9sh",
+"personal-terp-address": "terp1v5t7tma3ydh4de3pv8zcxh8e58krky5xh9v3sx",
+"tendermint-peer-id": "08a0f07da691a2d18d26e35eaa22ec784d1440cd@194.163.164.52:56656",
+"cloud-providers": "Mevspace,Hetzner"
+"Jurisdiction/Country of Validator Company": "Turkey"
+"Members-of-validator-[team/company/coop]":[
+    {
+        "discord/telegram": "jayjay#4970", "jwelryy"
+        "github": "https://github.com/jwelrynewone",
+        "primary jurisdiction": "Turkey"
+    }...
+    ],
+    "website (optional): "http://jayjayvalidator.tilda.ws/",
+}

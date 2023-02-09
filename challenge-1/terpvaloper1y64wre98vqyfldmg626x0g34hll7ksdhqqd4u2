@@ -1,0 +1,17 @@
+{
+"name": "StingRay",
+"terpval-address": "terpvaloper1y64wre98vqyfldmg626x0g34hll7ksdhqqd4u2",
+"personal-terp-address": "terp1y64wre98vqyfldmg626x0g34hll7ksdh3lgpum",
+"tendermint-peer-id": "a35d972b7fdb964e922c4df42befdb0fa8ae2679@5.189.178.222:56656",
+"cloud-providers": "Hetzner,Contabo,OVH,Mevspace",
+"jurisdiction": "Ireland",
+"members":[
+    {
+        "name": "StingRay",
+        "discord/telegram": "Mikhail#5221/@MikhailRadusha",
+        "github": "https://github.com/MikhailRadusha",
+        "primary jurisdiction": "Ireland"
+    }
+    ]
+"website (optional)": "https://github.com/MikhailRadusha"
+}

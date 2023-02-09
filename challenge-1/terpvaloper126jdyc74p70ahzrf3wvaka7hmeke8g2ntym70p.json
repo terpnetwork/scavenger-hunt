@@ -1,0 +1,17 @@
+{
+"name": "AlxVoy",
+"terpval-address": "terpvaloper126jdyc74p70ahzrf3wvaka7hmeke8g2ntym70p",
+"personal-terp-address": "terp126jdyc74p70ahzrf3wvaka7hmeke8g2n6m720s",
+"tendermint-peer-id": "2f0f98eb3965cc9949073b1f0e75a5e55be44ed2@65.109.28.177:21856",
+"cloud-providers": "Hetzner", "Contabo", "Mevspace", "SpaceCore",
+"jurisdiction": "Russia",
+"members":[
+    {
+        "name": "ANODE.TEAM",
+        "discord/telegram": "Voynitskiy | AlxVoy#7896", "@AlxVoy",
+        "github": "https://github.com/Voynitskiy",
+        "primary jurisdiction": "Russia"
+    }
+    ]
+"website (optional)": "https://anode.team"
+}

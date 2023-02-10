@@ -1,0 +1,17 @@
+{
+   "name":"AM Solutions",
+   "terpval-address":"terpvaloper152v036x9h88sje6482spehqv5t6x3d2ngt9nam",
+   "personal-terp-address":"terp152v036x9h88sje6482spehqv5t6x3d2ne5q8a2",
+   "tendermint-peer-id":"43935601c07194c34cd2d0c5f024ebd46e98a67b@65.108.72.233:26356",
+   "cloud-providers":"OVH, MevSpace",
+   "jurisdiction":"Latvia",
+   "members":[
+      {
+         "name":"AlexeyM | AM Solutions",
+         "discord/telegram":"AlexeyM#5409 / https://t.me/AlekseyRiga",
+         "github":"https://github.com/AlexToTheMoon/AM-Solutions",
+         "primary jurisdiction":"Latvia"
+      }
+   ]{
+      "website":"https://www.theamsolutions.info/"
+   }

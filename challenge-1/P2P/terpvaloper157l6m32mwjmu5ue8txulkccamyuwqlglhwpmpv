@@ -1,0 +1,16 @@
+{
+"name": "BccNodes",
+"terpval-address": "terpvaloper157l6m32mwjmu5ue8txulkccamyuwqlglhwpmpv",
+"personal-terp-address": "terp157l6m32mwjmu5ue8txulkccamyuwqlglx3y0pa",
+"tendermint-peer-id": "cfebf1f89428b3e49407ad7cef02509fe37cab75:52658",
+"cloud-providers": "Hetzner"
+"Jurisdiction/Country of Validator Company": "Turkey"
+"Members-of-validator-[team/company/coop]":[
+    {
+        "discord/telegram": "BccNodes#3882", "berkcak"
+        "github": "https://github.com/BccNodes",
+        "primary jurisdiction": "Turkey"
+    }...
+    ],
+    "website (optional): "https://bccnodes.com/",
+}

@@ -1,0 +1,17 @@
+{
+    "name": "cyberomanov",
+    "terpval-address": "terpvaloper1keu4upjzy5t4wj422gdhuld0rjkm4c9y0j85wp",
+    "personal-terp-address": "terp1keu4upjzy5t4wj422gdhuld0rjkm4c9y7dzqws",
+    "tendermint-peer-id": "e4d735866be21321115b0c4aa37f45738e9cc564@173.225.108.78:11503",
+    "cloud-providers": "Dedicated server",
+    "Jurisdiction/Country of Validator Company": "Moldova",
+    "Members-of-validator-[team/company/coop]":
+    [
+        {
+            "discord/telegram": "cyberomanov#7985, @cyberomanov",
+            "github": "https://github.com/cyberomanov",
+            "primary jurisdiction": "Moldova"
+        }
+    ],
+    "website (optional)": "https://cyberomanov.me"
+}

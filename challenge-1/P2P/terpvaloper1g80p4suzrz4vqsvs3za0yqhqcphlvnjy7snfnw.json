@@ -1,0 +1,17 @@
+{
+"name": "Blackhox",
+"terpval-address": "terpvaloper1g80p4suzrz4vqsvs3za0yqhqcphlvnjy7snfnw",
+"personal-terp-address": "terp1g80p4suzrz4vqsvs3za0yqhqcphlvnjy00kanl",
+"tendermint-peer-id": "681114e96b155d0fe874dc841a66d11d75a68738@77.52.182.194:26656",
+"cloud-providers": "Dedicated Server",
+"jurisdiction": "Ukraine",
+"members":[
+    {
+        "name": "Blackhox",
+        "discord/telegram": "Blackhox#4520/@Black_hox",
+        "github": "https://github.com/blackhox/AboutMe/blob/main/README.md",
+        "primary jurisdiction": "Ukraine"
+    }
+    ]
+"website (optional)": "https://github.com/blackhox/AboutMe/blob/main/README.md"
+}

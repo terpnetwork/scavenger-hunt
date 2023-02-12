@@ -1,0 +1,17 @@
+{
+"name": "NodeStake",
+"terpval-address": "terpvaloper1etx55kw7tkmnjqz0k0mups4ewxlr324trqeh5y",
+"personal-terp-address": "terp1etx55kw7tkmnjqz0k0mups4ewxlr324tjlur54",
+"tendermint-peer-id": "42dfe4bc0cacb118fdb72d251c4b794eb1ea285c@3.135.211.119:26656",
+"cloud-providers": "AWS", "OVH",
+"jurisdiction": "Singapore",
+"members":[
+    {
+        "name": "NodeStake",
+        "discord/telegram": "Alan | NodeStake.top#2237",
+        "github": "https://github.com/nodestake",
+        "primary jurisdiction": "Singapore"
+    }
+    ]
+"website (optional)": "https://nodestake.top"
+}

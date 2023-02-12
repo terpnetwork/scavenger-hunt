@@ -1,0 +1,17 @@
+{
+"name": "SerGo",
+"terpval-address": "terpvaloper1mzns2fp4urelqxyjxyjelef34j9eynu8ffd9vt",
+"personal-terp-address": "terp1mzns2fp4urelqxyjxyjelef34j9eynu8ckg3v6",
+"tendermint-peer-id": "72a94e30c526c8664189001b679f5bf68bd996b4@terp.sergo.dev:11623",
+"cloud-providers": "Mevspace,Ionos,Hetzner,Webtropia",
+"jurisdiction": "Poland",
+"members":[
+    {
+        "name": "SerGo",
+        "discord/telegram": "SerGo#8747",,
+        "github": "https://github.com/CrazySerGo",
+        "primary jurisdiction": "Poland"
+    }
+    ]
+"website (optional)": "https://sergo.dev"
+}

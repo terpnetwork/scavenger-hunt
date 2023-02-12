@@ -1,0 +1,17 @@
+{
+"name": "TerpXiti / GRX SOLUTIONS LLC",
+"terpval-address": "terpvaloper1gl6jfyl0yceqwdtwerxk56cyly2y06f3jtkjhq",
+"personal-terp-address": "terp1ahjjfn3jhmfytaevfdcfn6c0rtkqejaauncz3t",
+"tendermint-peer-id": "012dbc19c31c99c8a6a074868d5b6e9f57f8e100@67.205.150.113:26657",
+"cloud-providers": "DIGITAL OCEAN, AKASH",
+"jurisdiction": "SPAIN / UNITED STATES OF AMERICA",
+"members":[
+    {
+        "name": "Xiti",
+        "discord/telegram": "Xiti#9613",
+        "github": "https://github.com/Xiti922",
+        "primary jurisdiction": "UNITED STATES OF AMERICA"
+    }
+    ]
+"website (optional)": "terp.network"
+}

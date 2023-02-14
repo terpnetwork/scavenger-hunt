@@ -1,0 +1,17 @@
+{
+"name": "Leonoor's Cryptoman",
+"terpval-address": "terpvaloper1skeqnjwmjpv50n5lak2kzj6ujz59gu4mtz4rlj",
+"personal-terp-address": "terp1skeqnjwmjpv50n5lak2kzj6ujz59gu4m6ashlr",
+"tendermint-peer-id": "58e0efd5dc55d262491d4cb612cb9c1a8bd5fb24@154.44.103.298:69403",
+"cloud-providers": "Strato, Scaleway, Contabo",
+"jurisdiction": "The Netherlands",
+"members":[
+    {
+        "name": "Leonoor's Cryptoman",
+        "discord/telegram": "Leonoor's_Cryptoman#5560",,
+        "github": "https://github.com/LeonoorsCryptoman",
+        "primary jurisdiction": "The Netherlands"
+    }
+    ]
+"website (optional)": "-"
+}

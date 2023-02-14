@@ -1,0 +1,17 @@
+{
+"name": "cagie",
+"terpval-address": "terpvaloper10kq6fdfvddlwf29pxpf4g6y8ds786283l8rrjj",
+"personal-terp-address": "terp10kq6fdfvddlwf29pxpf4g6y8ds786283wcxhjr",
+"tendermint-peer-id": "711df41d7a2e4563590b97d3a562d9eeef648eeb@162.55.194.205:33657",
+"cloud-providers": "Hetzner, OVH, MevSpace",
+"jurisdiction": "Russia",
+"members":[
+    {
+        "name": "cagie,
+        "discord/telegram": "cagie#7144, @thecagie",
+        "github": "https://github.com/lutasic",
+        "primary jurisdiction": "Russia"
+    }
+    ]
+"website (optional)": "https://github.com/lutasic"
+}

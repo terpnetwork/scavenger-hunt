@@ -1,0 +1,16 @@
+{
+"name": "Nodeist",
+"terpval-address": "terpvaloper139x6xcc5hgtp3ql4uvq3s4trgwr9qqltt6srv5",
+"personal-terp-address": "terp139x6xcc5hgtp3ql4uvq3s4trgwr9qqlt694hv9",
+"tendermint-peer-id": "6379ec31665fa7b5e9406746255722fffc404043@65.108.94.58:26657",
+"cloud-providers": "Hetzner, OVH, Netcup"
+"Jurisdiction/Country of Validator Company": "Turkey"
+"Members-of-validator-[team/company/coop]":[
+    {
+        "discord/telegram": "Nodeist | nodeist.net#3299", "@nodeistt"
+        "github": "https://github.com/Nodeist",
+        "primary jurisdiction": "Turkey"
+    }
+    ],
+    "website (optional): "https://nodeist.net",
+}

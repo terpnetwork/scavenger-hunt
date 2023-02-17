@@ -1,17 +1,19 @@
 {
-"name": "Yeksin",
-"terpval-address": "terpvaloper1cjcndhjhxj5ru9f05gazzpr8lhz5fz7dkzlkwq",
-"personal-terp-address": "terp1cjcndhjhxj5ru9f05gazzpr8lhz5fz7d8a6zw3",
-"tendermint-peer-id": "54cc1b569d192cca4b544aa793be56fd90a19294@168.119.124.130:12656",
-"cloud-providers": "Hetzner",
-"jurisdiction": "Türkiye",
-"members":[
-    {
-        "name": "Yeksin",
-        "discord/telegram": "Yeksin#1982", "@yekssin"
-        "github": "https://github.com/Yeksin",
-        "primary jurisdiction": "Türkiye"
-    }
+    "name": "Yeksin",
+    "terpval-address": "terpvaloper1cjcndhjhxj5ru9f05gazzpr8lhz5fz7dkzlkwq",
+    "personal-terp-address": "terp1cjcndhjhxj5ru9f05gazzpr8lhz5fz7d8a6zw3",
+    "tendermint-peer-id": "54cc1b569d192cca4b544aa793be56fd90a19294@168.119.124.130:12656",
+    "cloud-providers": "Hetzner",
+    "jurisdiction": "Türkiye",
+    "members": [
+        {
+            "name": "Yeksin",
+            "discord/telegram": "Yeksin#1982 | @yekssin",
+            "github": "https://github.com/Yeksin",
+            "primary jurisdiction": "Türkiye"
+        },
+        {
+            "website (optional)": "https://yeksin.net"
+        }
     ]
-"website (optional)": "https://yeksin.net"
 }

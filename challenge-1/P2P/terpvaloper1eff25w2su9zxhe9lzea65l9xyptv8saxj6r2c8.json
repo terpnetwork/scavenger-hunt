@@ -1,17 +1,19 @@
 {
-"name": "STAVR",
-"terpval-address": "terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8",
-"personal-terp-address": "terp1eff25w2su9zxhe9lzea65l9xyptv8saxr9x7ck",
-"tendermint-peer-id": "e746a1aeee12ba57c72ade8d4ecf4543406dd5a7@65.109.92.241:21316",
-"cloud-providers": "OVH", "Interserver", "Mevspace", "SpaceCore",
-"jurisdiction": "Moldova",
-"members":[
-    {
-        "name": "🔥STAVR🔥",
-        "discord/telegram": "SAKURA#0129", "@STAVRRR",
-        "github": "https://github.com/obajay",
-        "primary jurisdiction": "Moldova"
-    }
+    "name": "STAVR",
+    "terpval-address": "terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8",
+    "personal-terp-address": "terp1eff25w2su9zxhe9lzea65l9xyptv8saxr9x7ck",
+    "tendermint-peer-id": "e746a1aeee12ba57c72ade8d4ecf4543406dd5a7@65.109.92.241:21316",
+    "cloud-providers": "OVH Interserver, Mevspace, SpaceCore",
+    "jurisdiction": "Moldova",
+    "members": [
+        {
+            "name": "🔥STAVR🔥",
+            "discord/telegram": "SAKURA#0129 | @STAVRRR",
+            "github": "https://github.com/obajay",
+            "primary jurisdiction": "Moldova"
+        },
+        {
+            "website (optional)": "https://explorer.stavr.tech"
+        }
     ]
-"website (optional)": "https://explorer.stavr.tech"
 }

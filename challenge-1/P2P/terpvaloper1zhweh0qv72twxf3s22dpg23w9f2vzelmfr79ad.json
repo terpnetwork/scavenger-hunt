@@ -1,17 +1,19 @@
 {
-   "name":"cryptobtcbuyer",
-   "terpval-address":"terpvaloper1zhweh0qv72twxf3s22dpg23w9f2vzelmfr79ad",
-   "personal-terp-address":"terp1zhweh0qv72twxf3s22dpg23w9f2vzelmcum3au",
-   "tendermint-peer-id":"b8d2eccdde37498515c5879bb9fcf02d71523f92@142.132.202.50:40656",
-   "cloud-providers":"Hetzner",
-   "jurisdiction":"Belarus",
-   "members":[
+   "name": "cryptobtcbuyer",
+   "terpval-address": "terpvaloper1zhweh0qv72twxf3s22dpg23w9f2vzelmfr79ad",
+   "personal-terp-address": "terp1zhweh0qv72twxf3s22dpg23w9f2vzelmcum3au",
+   "tendermint-peer-id": "b8d2eccdde37498515c5879bb9fcf02d71523f92@142.132.202.50:40656",
+   "cloud-providers": "Hetzner",
+   "jurisdiction": "Belarus",
+   "members": [
       {
-         "name":"cryptobtcbuyer",
-         "discord/telegram":" cryptobtcbuyer#1335 / https://t.me/cryptobtcbuyer",
-         "github":"https://github.com/cryptobtcbuyer",
-         "primary jurisdiction":"Belarus"
+         "name": "cryptobtcbuyer",
+         "discord/telegram": " cryptobtcbuyer#1335 / https://t.me/cryptobtcbuyer",
+         "github": "https://github.com/cryptobtcbuyer",
+         "primary jurisdiction": "Belarus"
+      },
+      {
+         "website": "https://github.com/cryptobtcbuyer"
       }
-   ]{
-      "website":"https://github.com/cryptobtcbuyer"
-   }
+   ]
+}

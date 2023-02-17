@@ -1,0 +1,14 @@
+{
+    "name": "<your-moniker>",
+    "social-contributions":{
+        "a": "Hosted community events",
+        "b": "Optimized documentation in TerpNetwork's repo's. <insert-PR-link>",
+        "c": "other social contributions"
+    },
+    "infrastructure-contributions":{
+        "a": "testnet validator; <link-to-delegation-page>",
+        "b": "Dapp deployment; <link-to-explorer>",
+        "c": "Statesync or Snapshot provider; <insert-link-here>",
+        "d": "+ others"
+    }
+}

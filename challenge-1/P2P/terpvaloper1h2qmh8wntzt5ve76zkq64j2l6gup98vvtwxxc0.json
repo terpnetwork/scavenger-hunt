@@ -1,18 +1,19 @@
 {
-"name": "DiBugNodes",
-"terpval-address": "terpvaloper1h2qmh8wntzt5ve76zkq64j2l6gup98vvtwxxc0",
-"personal-terp-address": "terp1h2qmh8wntzt5ve76zkq64j2l6gup98vv63rjc7",
-"tendermint-peer-id": "ac0b33204e94060fc797129fe5ff561407b594f1@65.21.134.202:26636",
-"cloud-providers": "Hetzner","OVH",
-"jurisdiction": "Finland","Germany",
-"members":[
-    {
-        "name": "DiBugNodes",
-        "discord/telegram": "DiBug | DiBugNodes.com#5685"/@DiBugNodes,
-        "github": "https://github.com/Dzima77",
-        "primary jurisdiction": "Russia/Belarus"
-    }
+    "name": "DiBugNodes",
+    "terpval-address": "terpvaloper1h2qmh8wntzt5ve76zkq64j2l6gup98vvtwxxc0",
+    "personal-terp-address": "terp1h2qmh8wntzt5ve76zkq64j2l6gup98vv63rjc7",
+    "tendermint-peer-id": "ac0b33204e94060fc797129fe5ff561407b594f1@65.21.134.202:26636",
+    "cloud-providers": "Hetzner, OVH ",
+    "jurisdiction": "Finland, Germany ",
+    "members": [
+        {
+            "name": "DiBugNodes",
+            "discord/telegram": "DiBug | DiBugNodes.com#5685 / @DiBugNodes ",
+            "github": "https://github.com/Dzima77",
+            "primary jurisdiction": "Russia/Belarus"
+        },
+        {
+            "website (optional)": "https://www.dibugnodes.com/"
+        }
     ]
-"website (optional)": "https://www.dibugnodes.com/"
 }
-

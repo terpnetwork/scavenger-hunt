@@ -1,17 +1,19 @@
 {
-   "name":"itrocket",
-   "terpval-address":"terpvaloper1u9nx0mxq30h6dq99w6ptju09pz3m32jxz4672f",
-   "personal-terp-address":"terp1u9nx0mxq30h6dq99w6ptju09pz3m32jxn2l22c",
-   "tendermint-peer-id":"360c7c554ba16333b5901a2a341e466ad2c1db37@146.19.24.52:33656",
-   "cloud-providers":"OVH, MevSpace, Vultr",
-   "jurisdiction":"Armenia",
-   "members":[
+   "name": "itrocket",
+   "terpval-address": "terpvaloper1u9nx0mxq30h6dq99w6ptju09pz3m32jxz4672f",
+   "personal-terp-address": "terp1u9nx0mxq30h6dq99w6ptju09pz3m32jxn2l22c",
+   "tendermint-peer-id": "360c7c554ba16333b5901a2a341e466ad2c1db37@146.19.24.52:33656",
+   "cloud-providers": "OVH, MevSpace, Vultr",
+   "jurisdiction": "Armenia",
+   "members": [
       {
-         "name":"SEM | ITRocket",
-         "discord/telegram":"SEM#4095 / https://t.me/SEM3gs",
-         "github":"https://github.com/itrocket-team",
-         "primary jurisdiction":"Armenia"
+         "name": "SEM | ITRocket",
+         "discord/telegram": "SEM#4095 / https://t.me/SEM3gs",
+         "github": "https://github.com/itrocket-team",
+         "primary jurisdiction": "Armenia"
+      },
+      {
+         "website": "https://itrocket.net/"
       }
-   ]{
-      "website":"https://itrocket.net/"
-   }
+   ]
+}

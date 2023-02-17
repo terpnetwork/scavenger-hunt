@@ -1,0 +1,19 @@
+{
+    "name": "Tarzik",
+    "terpval-address": "terpvaloper1r0z2xj642rjmpxdp59gaf3x3rjtwsmx4pnfl4l",
+    "personal-terp-address": "terp1r0z2xj642rjmpxdp59gaf3x3rjtwsmx4svvt4w",
+    "tendermint-peer-id": "b7e6762a66bfa6f2e29f3df39387512fbe85f125@65.109.112.20:11074",
+    "cloud-providers": "Hetzner, OVH, SpaceCore",
+    "jurisdiction": "Poland",
+    "members": [
+        {
+            "name": "Tarzik",
+            "discord/telegram": "Tarzik#0659 | @Tarzikmaugl",
+            "github": "https://github.com/Tarz1k",
+            "primary jurisdiction": "Poland"
+        },
+        {
+            "website (optional)": "https://github.com/Tarz1k"
+        }
+    ]
+}

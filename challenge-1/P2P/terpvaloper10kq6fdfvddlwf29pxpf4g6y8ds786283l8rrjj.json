@@ -7,11 +7,11 @@
 "jurisdiction": "Russia",
 "members":[
     {
-        "name": "cagie,
+        "name": "cagie",
         "discord/telegram": "cagie#7144, @thecagie",
         "github": "https://github.com/lutasic",
         "primary jurisdiction": "Russia"
-    }
+    },
+    {"website (optional)": "https://github.com/lutasic"}
     ]
-"website (optional)": "https://github.com/lutasic"
 }

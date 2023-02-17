@@ -3,14 +3,14 @@
 "terpval-address": "terpvaloper17wvqnrqvx7q5wrpm428vp758rcvkff2pkn6g7h",
 "personal-terp-address": "terp17wvqnrqvx7q5wrpm428vp758rcvkff2p8vlu7x",
 "tendermint-peer-id": "b0167b898f42b763760cb43c3278a9997bf5a904@116.202.227.117:33656",
-"cloud-providers": "Hetzner, OVH, Netcup"
-"Jurisdiction/Country of Validator Company": "Latvia"
+"cloud-providers": "Hetzner, OVH, Netcup",
+"Jurisdiction/Country of Validator Company": "Latvia",
 "Members-of-validator-[team/company/coop]":[
     {
-        "discord/telegram": "kjnodes#8455", "@kjnodes"
+        "discord/telegram": "kjnodes#8455 | @kjnodes",
         "github": "https://github.com/kj89",
         "primary jurisdiction": "Latvia"
-    }
-    ],
-    "website (optional): "https://kjnodes.com",
+    },
+    {"website (optional)": "https://kjnodes.com"}
+    ]
 }

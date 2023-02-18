@@ -1,0 +1,17 @@
+{
+"name": "haciyatmaz",
+"terpval-address": "terpvaloper1w6yzswlclrh5emqefd3tvhhvvctspysyuxrqfm",
+"personal-terp-address": "terp1w6yzswlclrh5emqefd3tvhhvvctspysydex5f2",
+"tendermint-peer-id": "9ce8c03bc8d8e76457e57fb9c83889b761d87449@138.201.204.5:33656",
+"cloud-providers": "Hetzner",
+"jurisdiction": "Türkiye",
+"members":[
+    {
+        "name": "haciyatmaz",
+        "discord/telegram": "haciyatmaz#0312 / @haciyatmaz",,
+        "github": "https://github.com/hcytmz",
+        "primary jurisdiction": "Türkiye"
+    }
+    ]
+"website (optional)": "https://twitter.com/0xhaciyatmaz"
+}

@@ -2,9 +2,13 @@
     "name": "AlxVoy",
     "social-contributions":{
         "a": "Helping Terp Network discord community members.",
-        "b": "Twitter interaction. ex: https://twitter.com/Voynitskiy/status/1627405758236164097?s=20"
+        "b": "Twitter interaction. ex: https://twitter.com/Voynitskiy/status/1627405758236164097?s=20",
+        "c": "Guid: https://anode.team/Terp/"
     },
     "infrastructure-contributions":{
         "a": "testnet validator; https://test.anode.team/terp/staking/terpvaloper126jdyc74p70ahzrf3wvaka7hmeke8g2ntym70p"
+        "b": "Dapp deployment: https://test.anode.team/terp",
+        "c": "Statesync: https://anode.team/Terp/#State-Sync_t",
+        "d": "Script for quick installation: https://anode.team/Terp/#Script_t",
     }
 }

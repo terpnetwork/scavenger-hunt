@@ -1,0 +1,9 @@
+{
+    "name": "Yeksin",
+    "infrastructure-contributions":{
+        "a": "testnet validator; https://explorers.yeksin.net/terp-testnet/staking/terpvaloper1cjcndhjhxj5ru9f05gazzpr8lhz5fz7dkzlkwq",
+        "b": "Dapp deployment; https://explorers.yeksin.net/terp-testnet",
+        "c": "Statesync or Snapshot provider; https://www.yeksin.net/terp/state-sync , https://www.yeksin.net/terp/snapshot ",
+        "d": "https://www.yeksin.net/terp (Installation Guide, Genesis Mirror, Hourly Addrbook File, API, RPC, gRPC Endpoints, Cheatsheet, Live Peers)"
+    }
+}

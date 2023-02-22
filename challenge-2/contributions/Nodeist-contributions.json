@@ -1,0 +1,14 @@
+{
+    "name": "Nodeist",
+    "social-contributions":{
+        "a": "Helping Terp Network discord community members.",
+        "b": "Helping community members on our own discord server.",
+        "c": "Twitter interaction. ex: https://twitter.com/Nodeistt/status/1626667742517420042"
+    },
+    "infrastructure-contributions":{
+        "a": "testnet validator; https://exp.nodeist.net/t-terp/staking/terpvaloper139x6xcc5hgtp3ql4uvq3s4trgwr9qqltt6srv5",
+        "b": "Dapp deployment; https://exp.nodeist.net/t-terp/",
+        "c": "Statesync or Snapshot provider; https://nodeist.net/t/Terp/",
+        "d": "Setup Guide, RPC-API endpoint, Genesis Mirror File, Peering Service, Addrbook File, Useful Scripts"
+    }
+}

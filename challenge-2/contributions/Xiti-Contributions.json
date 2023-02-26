@@ -1,0 +1,12 @@
+{
+    "name": "XitiX",
+    "social-contributions":{
+        "a": "Moderate & Administrate Discord Utils",
+        "b": "Optimized documentation in TerpNetwork's repo's.",
+    },
+    "infrastructure-contributions":{
+        "a": "testnet validator; https://terp.zenscan.io/validator.php?addr=terpvaloper1hzjshhytzexhkatvh2rjru94738ukckydk6q5e",
+        "b": "Dapp deployment; "DAODAO, INSYNC STAKE"
+        "d": "DevNET"
+    }
+}

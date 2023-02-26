@@ -1,0 +1,16 @@
+{
+"name": "High Stakes",
+"terpval-address": "terpvaloper1uc52al69sqxa76r5qea5yct9lwszng8zcvj8mf",
+"personal-terp-address": "terp1uc52al69sqxa76r5qea5yct9lwszng8zfnhnmc",
+"tendermint-peer-id": "79ba637ef59c94ba41c870806903b4e907594f32",
+"cloud-providers"Leaseweb, OVH, Hetzner"
+"Jurisdiction/Country of Validator Company": "Switzerland"
+"Thomas":[
+    {
+        "discord/telegram": "Thomas | High Stakes#0885",
+        "github": "https://github.com/HighStakesSwitzerland/",
+        "primary jurisdiction": "Switzerland"
+    }...
+    ],
+    "website (optional): https://highstakes.ch",
+}

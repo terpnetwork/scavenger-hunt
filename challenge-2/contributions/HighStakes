@@ -1,0 +1,14 @@
+{
+    "name": "High Stakes 🇨🇭",
+    "social-contributions":{
+        "a": "Generally trying to be useful.",
+        "b": "Am I useful? I sure try to be useful.",
+        "c": "Errr... I'll happily retweet important communications, but I'm not into social stuff I'm afraid."
+    },
+    "infrastructure-contributions":{
+        "a": "testnet validator; https://explorer.bccnodes.com/terp/staking/terpvaloper1uc52al69sqxa76r5qea5yct9lwszng8zcvj8mf",
+        "b": "Dapp deployment; ...🦗",
+        "c": "Statesync or Snapshot provider; https://tools.highstakes.ch/snapshots/terp",
+        "d": "Map of nodes: https://tools.highstakes.ch/geoloc/athena"
+    }
+}
